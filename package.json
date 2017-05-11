@@ -1,0 +1,23 @@
+{
+  "name": "draw-circle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbanga/good-problems.git"
+  },
+  "author": "vbanga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vbanga/good-problems/issues"
+  },
+  "homepage": "https://github.com/vbanga/good-problems#readme",
+  "dependencies": {
+    "mathjs": "^3.12.3"
+  }
+}
